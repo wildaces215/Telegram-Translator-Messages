@@ -8,7 +8,7 @@ load_dotenv()
 
 api_id=os.environ.get("API_ID")
 api_hash=os.environ.get("API_HASH")
-channels=['КИБЕР ФРОНТ Z 🇷🇺']
+channels=[]
 installed_languages = argostranslate.translate.get_installed_languages()
 print(installed_languages)
 #Add you Telegram channels here.....
@@ -30,7 +30,7 @@ def translateText(orig_lang,chats):
         print(translatedText)
         sleep(1)
 
-    
+   
 
 getText(channels)
 translateText("ru",channelChats)
