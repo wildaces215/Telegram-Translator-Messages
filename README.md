@@ -6,4 +6,4 @@ Since the start of the Russo-Ukraine war I became interested in the plethora of 
  ```
  pip install -r requirements.txt
  ```
-Follwoing installing all the required ligbraries use or moidify it to your liking!
+Following installing all the required libraries use or modify it to your liking!
