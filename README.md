@@ -6,4 +6,5 @@ Since the start of the Russo-Ukraine war I became interested in the plethora of 
  ```
  pip install -r requirements.txt
  ```
+ Once that is done then you would want to go to Argos -Translate Website. Once there you would need to download the models that you would want to use. To download and use the models there are two ways of doing this: through the command line and though the gui app itself.
 Following installing all the required libraries use or modify it to your liking!
